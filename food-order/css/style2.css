@@ -1,0 +1,12 @@
+.contact{
+  background-color: #ececec;
+  padding: 4% 0;
+}
+.contact-form{
+  width: 43%;
+  margin: 1%;
+  padding: 2%;
+  float: left;
+  background-color: white;
+  border-radius: 15px;
+}
